@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">hey there 👋<br>I am Shirisha Reddy</h3>
+<h1 align="center">hey there 👋<br>I am Shirisha Reddy</h1>
 
 ###
 
