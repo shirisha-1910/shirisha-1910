@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <a href="https://in.linkedin.com/in/shirisha-reddy-yasa-a58a95245" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@shirishareddy.yasa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
 </div>
 
 ###
@@ -73,7 +77,6 @@
 
 <img src="https://raw.githubusercontent.com/shirisha-1910/shirisha-1910/output/snake.svg" alt="Snake animation" />
 
-
 ###
 
 <div align="center">
@@ -83,8 +86,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=shirisha%20reddy&theme=merko" alt="Layout with last medium posts"  />
-</div>
+### 📖 Check Out My Medium Articles
+
+[![Medium](https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shirishareddy.yasa)
+### 📝 Latest Medium Posts
+
+➡️ [View all articles on Medium](https://medium.com/@shirishareddy.yasa)
 
 ###
