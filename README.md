@@ -82,9 +82,6 @@
 </p>
 
 
-###
-
-<img src="https://raw.githubusercontent.com/shirisha-1910/shirisha-1910/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -94,6 +91,12 @@
 </div>
 
 ###
+
+###
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shirisha-1910/shirisha-1910/output/snake.svg" alt="Snake animation" style="border: 2px solid #4FC3F7; border-radius: 10px;" />
+</p>
 
 ### 📖 Check Out My Medium Articles
 
