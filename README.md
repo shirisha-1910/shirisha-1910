@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Shirisha Reddy from India<br><br>🔭 I’m a DevOps enthusiast passionate about cloud technologies and automation<br><br>📚 I love learning new tools and technologies<br><br>⚡ In my free time, I explore automation tools, work on personal projects, and stay updated with DevOps trends</p>
+<p align="left">👋 Hi, I'm Shirisha Reddy from Hyd<br><br>🔭 I’m a DevOps enthusiast passionate about cloud technologies and automation<br><br>📚 I love learning new tools and technologies<br><br>⚡ In my free time, I explore automation tools, work on personal projects, and stay updated with DevOps trends</p>
 
 ###
 
