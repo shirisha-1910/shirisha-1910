@@ -15,7 +15,8 @@
 
 ###
 
-<h1 align="center">hey there 👋<br>I am Shirisha Reddy</h1>
+<h1 align="center">Hey there 👋<br>I am <font color="blue">Shirisha Reddy</font></h1>
+
 
 ###
 
@@ -73,6 +74,14 @@
   <img src="https://streak-stats.demolab.com?user=shirisha-1910&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+### 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shirisha-1910&theme=tokyo-night&area=true&hide_border=true&line=ff9b72&color=9be9a8&point=403d3d&area_color=9be9a8" />
+</p>
+
+
 ###
 
 <img src="https://raw.githubusercontent.com/shirisha-1910/shirisha-1910/output/snake.svg" alt="Snake animation" />
@@ -94,3 +103,6 @@
 ➡️ [View all articles on Medium](https://medium.com/@shirishareddy.yasa)
 
 ###
+
+
+
