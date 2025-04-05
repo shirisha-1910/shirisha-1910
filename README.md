@@ -81,6 +81,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shirisha-1910&theme=tokyo-night&area=true&hide_border=true&line=ff9b72&color=9be9a8&point=403d3d&area_color=9be9a8" />
 </p>
 
+## 📊 Activity Overview
+
+> **Contributed to**  
+[`shirisha-1910/action-pr-triggers`](https://github.com/shirisha-1910/action-pr-triggers), [`shirisha-1910/github-oidc-s3`](https://github.com/shirisha-1910/github-oidc-s3), [`shirisha-1910/test-custom-actions`](https://github.com/shirisha-1910/test-custom-actions) and **22 other repositories**
+
+---
+
+### 🎯 Contribution Breakdown
+
+- ![Issues](https://img.shields.io/badge/🐛%20Issues-6%25-yellow?style=for-the-badge)
+- ![Pull Requests](https://img.shields.io/badge/🚀%20Pull%20Requests-94%25-blueviolet?style=for-the-badge)
+- ![Code Reviews](https://img.shields.io/badge/💬%20Code%20Review-In%20Progress-orange?style=for-the-badge)
+- ![Commits](https://img.shields.io/badge/📦%20Commits-Ongoing-green?style=for-the-badge)
+
 
 
 ###
@@ -106,6 +120,4 @@
 ➡️ [View all articles on Medium](https://medium.com/@shirishareddy.yasa)
 
 ###
-
-
 
