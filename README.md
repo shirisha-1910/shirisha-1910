@@ -71,7 +71,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shirisha-1910/shirisha-1910/output/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/shirisha-1910/shirisha-1910/output/snake.svg" alt="Snake animation" />
 
 
 ###
