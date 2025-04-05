@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋<br>I am <font color="blue">Shirisha Reddy</font></h1>
+<h1 align="center">>Hey there 👋<br>I am <font color="blue">Shirisha Reddy</font></h1>
 
 
 ###
