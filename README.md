@@ -5,7 +5,7 @@
   <a href="https://medium.com/@shirishareddy.yasa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
-   <a href="https://website.com/@shirishareddy.yasa" target="_blank">
+   <a href="https://shirishareddy.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=website&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
   </a>
 </div>
